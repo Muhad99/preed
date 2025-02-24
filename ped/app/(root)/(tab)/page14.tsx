@@ -51,7 +51,7 @@ const page14 = () => {
             •	Comes in the name of the Lord. This shows Christ's Kingship comes from God, not men. God has ordained Him and He will be established in the future.
           </Text>
         </Text>
-        
+
         <Text style={styles.subtitle}>CONCLUSION</Text>
         <Text style={styles.content}>
           <Text>:People with willing hearts praised Jesus Christ with their possessions. They did it willingly and joyfully testifying of His good works in their lives. May that be so of us this season and always in Jesus name.</Text>

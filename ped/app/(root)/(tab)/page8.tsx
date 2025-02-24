@@ -96,19 +96,19 @@ const page8 = () => {
         <Text style={styles.subtitle}>C. THE REQUIREMENTS FOR SALVATION</Text>
 
         <Text style={styles.content}>
-          1. <Text>GTo hear the Word of God is essential for a person to be saved (Romans 10: 17); 
+          1. <Text>GTo hear the Word of God is essential for a person to be saved (Romans 10: 17);
             Every one given birth to through the union of a man and woman is born a sinner and as such, doomed for condemnation based on the inherited or original sin of all mankind from Adam. As a result of this, the provision of an "escape route" through the Gospel message is made.
           </Text>
         </Text>
         <Text style={styles.content}>
-          2. <Text>There must be a personal decision to receive and believe by faith the salvation provided by Jesus Christ (John 3: 3): This is the second requirement. 
+          2. <Text>There must be a personal decision to receive and believe by faith the salvation provided by Jesus Christ (John 3: 3): This is the second requirement.
             The personal decision, freewill of each person to choose to accept Christ and believe in the salvation provided (John 3:16). hinged on the
           </Text>
           <Text style={styles.content}>
-            3. <Text>Repent from one's sins, forsake them and l chose to live a holy life: This is the third requirement. 
+            3. <Text>Repent from one's sins, forsake them and l chose to live a holy life: This is the third requirement.
               One must turn away from a life of sin by the help of the Holy Spirit and daily follow the Lord in the new life of holiness and righteousness as revealed in the word of God (Romans 12: 1, 2; 1 Peter 1:15). </Text>
           </Text>
-        
+
         </Text>
 
         <Text style={styles.subtitle}>CONCLUSION: The summary of these steps is as stated in Romans 10:9:</Text>
@@ -119,7 +119,7 @@ const page8 = () => {
         </Text>
         <Text style={styles.content}>
           2. <Text>believe in your heart that God raised him from the dead.</Text>
-    
+
         </Text>
 
 

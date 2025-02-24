@@ -73,7 +73,7 @@ const page24 = () => {
         </Text>
 
         <Text style={styles.content}>
-          1. <Text>Control your anger (Ephesians 4: 26-27 cf. Genesis 4: 3 - 8). The anger of man never works out the 	righteousness of God (James 1: 20). arn to resolve conflicts before involving others (Matthew 	18:15-17). 
+          1. <Text>Control your anger (Ephesians 4: 26-27 cf. Genesis 4: 3 - 8). The anger of man never works out the 	righteousness of God (James 1: 20). arn to resolve conflicts before involving others (Matthew 	18:15-17).
           </Text>
         </Text>
         <Text style={styles.content}>
@@ -103,7 +103,7 @@ const page24 = () => {
         <Text style={styles.content}>
           8. <Text>Hug each other. Words should be followed by actions.  A hug is but the acceptance and beginning 	of reconciliatory efforts.  Once forgiveness has been sought, no barriers, distance or 	separationshould be allowed</Text>
         </Text>
- 
+
 
 
         <Text style={styles.subtitle}>CONCLUSION</Text>

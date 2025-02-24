@@ -103,7 +103,7 @@ const page4 = () => {
         </Text>
         <Text style={styles.content}>
           3. <Text>any believers confuse THE BAPTISM OF THE HOLY SPIRIT with being filled with the Holy Spirit. The latter is a spiritual experience that is facilitated by the believer's total yielding to the control of the Holy Spirit.
-             Unlike BAPTISM OF THE HOLY SPIRIT, being filled with the Holy Spirit can be a continual or continuous experience, depending on the believer. </Text>
+            Unlike BAPTISM OF THE HOLY SPIRIT, being filled with the Holy Spirit can be a continual or continuous experience, depending on the believer. </Text>
 
         </Text>
         <Text style={styles.content}>
@@ -117,7 +117,7 @@ const page4 = () => {
 
         </Text>
         <Text style={styles.content}>
-          b. <Text>a child of God (John 1: 12). 
+          b. <Text>a child of God (John 1: 12).
           </Text>
 
         </Text>
@@ -139,7 +139,7 @@ const page4 = () => {
         <Text style={styles.content}>
           g. <Text>entitled to all the privileges, and can claim all the promises of God for the redeemed (2 Peter 1:3, 4), etc.          </Text>
         </Text>
-       
+
         <Text style={styles.memoryVerse}>Memory Verse: John 3:5</Text>
       </ScrollView>
     </View>

@@ -117,7 +117,7 @@ const page3 = () => {
         </Text>
         <Text style={styles.content}>
           1. <Text>Wait patiently (Psalm 27: 14; Luke 18: 1.) Waiting patiently means to wait until God comes with a word or the answer/desired blessing. For Abraham, it was after 25yrs; David and Joseph- 13years.
-        </Text>
+          </Text>
         </Text>
         <Text style={styles.content}>
           2. <Text>Wait expectantly (Hebrews 11: 6). Like a pregnant woman, the expectant is often excited, hopeful, happy, and prepares to receive. This should be the attitude of a Christian waiting on God.
@@ -134,10 +134,10 @@ const page3 = () => {
         <Text style={styles.content}>
           5. <Text>Be Intentional. The waiting time must be engaged in intentionally knowing what God wants of us.          </Text>
         </Text>
-        
+
         <Text style={styles.subtitle}>CONCLUSION</Text>
         <Text style={styles.content}>
-        Believers must learn the principles of waiting because it is divinely recommended and God has promised to bountifully reward those who wait on Him. Therefore, as Christians we must learn to wait on God through meditating on His word and in constant and continuous prayer so that we can enjoy the best God has in stock for us in the New Year.
+          Believers must learn the principles of waiting because it is divinely recommended and God has promised to bountifully reward those who wait on Him. Therefore, as Christians we must learn to wait on God through meditating on His word and in constant and continuous prayer so that we can enjoy the best God has in stock for us in the New Year.
 
 
         </Text>

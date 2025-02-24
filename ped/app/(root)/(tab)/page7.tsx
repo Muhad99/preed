@@ -87,7 +87,7 @@ const page7 = () => {
             4. <Text>The door of Salvation remains open and the opportunity to share or hear the good news of gospel of Jesus that leads to salvation exists as long as a person is still alive. After death, it becomes close and the opportunity ceases!</Text>
           </Text>
         </Text>
-       
+
         <Text style={styles.subtitle}>D. HOW TO REACH OUR FATHER'S HOUSE</Text>
 
         <Text style={styles.content}>

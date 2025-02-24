@@ -71,7 +71,7 @@ const page51 = () => {
           5.<Text>To worship God and give Him special thanksgiving offerings.
           </Text>
         </Text>
-  
+
         <Text style={styles.subtitle}>THINGS TO REMEMBER AT CHRISTMAS</Text>
         <Text style={styles.content}>
           1.<Text>The Incarnation Of Jesus (John 1: 1 -5, 2: 10-12). God assumed a human nature and became a man 	in the form of Jesus Christ i.e. God was "in-carnated" in human flesh.
@@ -102,7 +102,7 @@ const page51 = () => {
 
           </Text>
         </Text>
- 
+
 
         <Text style={styles.subtitle}>CONCLUSION</Text>
         <Text style={styles.content}>

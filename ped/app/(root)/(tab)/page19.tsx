@@ -131,7 +131,7 @@ const page19 = () => {
             ii. singing of praise songs/Hymn
             iii. reading through the Bible and devotional commentary
             iv. discussion and interaction aimed at explaining the text
-            v. sharing prayer requests so that such can be presented to God in prayers 
+            v. sharing prayer requests so that such can be presented to God in prayers
             vi. closing prayers and benediction.
 
             All of these must be done being time conscious. Too much time should not be spent to the point that it will affect other activities of the day or night.

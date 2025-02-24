@@ -98,10 +98,10 @@ const page6 = () => {
         </Text>
 
         <Text style={styles.subtitle}>CONCLUSION: </Text>
-        <Text style={styles.content}>Now that you understand how to be born of water and the Spirit, that kind of tragedy we read in Matthew 7: 23 needs not happen in your life. Therefore, be sure you can answer the following questions in the affirmative: 
+        <Text style={styles.content}>Now that you understand how to be born of water and the Spirit, that kind of tragedy we read in Matthew 7: 23 needs not happen in your life. Therefore, be sure you can answer the following questions in the affirmative:
         </Text>
-        
-        1.<Text style={styles.content}>Have you been born of water and the Spirit, as Jesus demands in John 3:5? 
+
+        1.<Text style={styles.content}>Have you been born of water and the Spirit, as Jesus demands in John 3:5?
         </Text>
         2.<Text style={styles.content}>Does Jesus know you because He has baptized you through the Holy Spirit into His Body – the invisible Church (1Corinthians 12:13)? Have you become bonded to Him through an agreement?
         </Text>

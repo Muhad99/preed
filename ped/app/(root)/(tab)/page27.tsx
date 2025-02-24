@@ -43,7 +43,7 @@ const page27 = () => {
           2. <Text>The Holy Spirit shows empathy (John 14:16). He can feel and be grieved. He speaks and gives 	counsel (Acts 8: 29; 15: 28). He possesses divine attributes such as omniscience, omnipresence, 	omnipotent and eternality (Psalm 139: 7; Zechariah 4: 6; Hebrews 9: 14).
           </Text>
         </Text>
- 
+
 
         <Text style={styles.subtitle}>B. THE ROLE OF THE HOLY SPIRIT IN PRAYER (Romans 8: 26, 27)</Text>
         <Text style={styles.content}>
@@ -60,7 +60,7 @@ const page27 = () => {
           3. <Text>He Helps Us Know The Mind Of God. It is s very important that we understand the mind of God 	when we pray. Jesus taught ue spray for the will of God to be done on earth as it is heaven Ih ie the 	Holy Spirit who fully understands what the will of God is and can guide us into it.</Text>
         </Text>
         <Text style={styles.content}>
-          4. <Text>He Makes Intercession For The Saints. One other role of the Holy Spirit is the intercession He 	makes for us in line with the will of God for our lives. This is because we do not only know what 	to pray for as we should but how intense the prayer should be. The Holy Spirit comes to our aid in 	this critical aspect of our lives. 
+          4. <Text>He Makes Intercession For The Saints. One other role of the Holy Spirit is the intercession He 	makes for us in line with the will of God for our lives. This is because we do not only know what 	to pray for as we should but how intense the prayer should be. The Holy Spirit comes to our aid in 	this critical aspect of our lives.
 
 
           </Text>
@@ -71,7 +71,7 @@ const page27 = () => {
 
           </Text>
         </Text>
- 
+
 
         <Text style={styles.subtitle}>CONCLUSION</Text>
         <Text style={styles.content}>

@@ -22,7 +22,7 @@ const page5 = () => {
       {/* Content */}
       <ScrollView contentContainerStyle={styles.scrollContainer}>
         <Text style={styles.content}>
-          <Text style={{ fontWeight: 'bold' }}>INTRODUCTION:</Text> Many people listen to the preaching of the gospel of Christ, yet they are not saved! Many others participate actively in church programmes, yet they are not born-again! The reason is because THEY DO NOT UNDERSTAND (Matthew 13: 19). 
+          <Text style={{ fontWeight: 'bold' }}>INTRODUCTION:</Text> Many people listen to the preaching of the gospel of Christ, yet they are not saved! Many others participate actively in church programmes, yet they are not born-again! The reason is because THEY DO NOT UNDERSTAND (Matthew 13: 19).
           A large number of church people profess to be followers of the Lord Jesus Christ without understanding and meeting the terms and conditions on which Jesus Christ would accept and register them as His followers. lgnorance often leads to tragedy, and in this case, eternal tragedy! That was the case with the professing "Christians'" we read about in Matthew 7: 21-23.
         </Text>
 
@@ -103,7 +103,7 @@ const page5 = () => {
         </Text>
         <Text style={styles.content}>
           3. <Text>any believers confuse THE BAPTISM OF THE HOLY SPIRIT with being filled with the Holy Spirit. The latter is a spiritual experience that is facilitated by the believer's total yielding to the control of the Holy Spirit.
-             Unlike BAPTISM OF THE HOLY SPIRIT, being filled with the Holy Spirit can be a continual or continuous experience, depending on the believer. </Text>
+            Unlike BAPTISM OF THE HOLY SPIRIT, being filled with the Holy Spirit can be a continual or continuous experience, depending on the believer. </Text>
 
         </Text>
         <Text style={styles.content}>
@@ -117,7 +117,7 @@ const page5 = () => {
 
         </Text>
         <Text style={styles.content}>
-          b. <Text>a child of God (John 1: 12). 
+          b. <Text>a child of God (John 1: 12).
           </Text>
 
         </Text>
@@ -139,7 +139,7 @@ const page5 = () => {
         <Text style={styles.content}>
           g. <Text>entitled to all the privileges, and can claim all the promises of God for the redeemed (2 Peter 1:3, 4), etc.          </Text>
         </Text>
-       
+
         <Text style={styles.memoryVerse}>Memory Verse: John 3:5</Text>
       </ScrollView>
     </View>

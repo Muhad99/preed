@@ -137,7 +137,7 @@ const page46 = () => {
           8.<Text>As Christians, the word of God teaches us that life does not consist in the abundance of the things 	that we possess (Luke 12:15).
           </Text>
         </Text>
-      
+
         <Text style={styles.subtitle}>CONCLUSION</Text>
         <Text style={styles.content}>
           <Text>: As God's children we should not be obsessed with the pursuit of worldly wealth and materialism. We should imbibe biblical principles on money and avoid the love of money.

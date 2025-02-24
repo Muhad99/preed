@@ -129,7 +129,7 @@ const page9 = () => {
           </Text>
 
         </Text>
-        
+
 
         <Text style={styles.memoryVerse}>Memory Verse: Romans 1: 16</Text>
       </ScrollView>

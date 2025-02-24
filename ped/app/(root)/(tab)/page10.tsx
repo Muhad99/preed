@@ -24,8 +24,8 @@ const page10 = () => {
       {/* Content */}
       <ScrollView contentContainerStyle={styles.scrollContainer}>
         <Text style={styles.content}>
-          <Text style={{ fontWeight: 'bold' }}>INTRODUCTION:</Text> The importance of speaking up for the voiceless cannot be overemphasized. 
-          Examples of this are found in both the Old and the New Testaments. We see Moses, who appeared before King Pharaoh and spoke up for his people who were being oppressed in Egypt. 
+          <Text style={{ fontWeight: 'bold' }}>INTRODUCTION:</Text> The importance of speaking up for the voiceless cannot be overemphasized.
+          Examples of this are found in both the Old and the New Testaments. We see Moses, who appeared before King Pharaoh and spoke up for his people who were being oppressed in Egypt.
           We also see Jesus, who confronted the religious leaders of his time and became a voice for the oppressed and the marginalized in Israel. In like manner today, we are caled to rise up and be voices for the voiceless around us.
         </Text>
 
@@ -91,7 +91,7 @@ const page10 = () => {
           </Text>
 
         </Text>
-       
+
 
         <Text style={styles.memoryVerse}>Memory Verse: Proverbs 31:9</Text>
       </ScrollView>
